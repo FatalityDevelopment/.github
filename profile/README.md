@@ -9,9 +9,9 @@
   </picture>
 </p>
 
-<h3 align="center">PlayStation 2 reverse engineering, modding and online revival</h3>
+<h3 align="center">Reviving retro games, and whatever else catches our interest</h3>
 
-Fatality Development builds tools for taking PS2 games apart and putting them back together. That covers debuggers and emulators, asset editors, cheat archives, and the servers that bring SOCOM U.S. Navy SEALs II back online on real hardware.
+Fatality Development brings old games back to life. We reverse engineer them, build emulators, debuggers and modding tools, and rebuild the online services that shut down years ago, so classics like SOCOM U.S. Navy SEALs II can be played online again on real hardware. Along the way we take on any other project that looks interesting.
 
 ## Projects
 
