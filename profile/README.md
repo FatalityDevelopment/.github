@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/fatality-banner-full.gif" alt="Fatality Development" width="60%">
+  <img src="images/fatality-banner-full.gif" alt="Fatality Development" width="50%">
 </p>
 
 <p align="center">
