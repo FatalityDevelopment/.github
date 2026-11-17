@@ -2,13 +2,6 @@
   <img src="images/fatality-banner-full.gif" alt="Fatality Development" width="50%">
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/fatality-icon-white.png">
-    <img src="images/fatality-icon-black.png" alt="Fatality Development dragon" width="96">
-  </picture>
-</p>
-
 <h3 align="center">Reviving retro games, and whatever else catches our interest</h3>
 
 Fatality Development brings old games back to life. We reverse engineer them, build emulators, debuggers and modding tools, and rebuild the online services that shut down years ago, so classics like SOCOM U.S. Navy SEALs II can be played online again on real hardware. Along the way we take on any other project that looks interesting.
